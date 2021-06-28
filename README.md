@@ -1,4 +1,3 @@
-<p><img align="left" width="600" height="200" src="https://github.com/jayasitumorang/jayasitumorang/blob/main/jayasitumorang.jpg"></p>
 <p align="center">
   <img width="600" height="200" src="https://github.com/jayasitumorang/jayasitumorang/blob/main/jayasitumorang.jpg">
 </p>
