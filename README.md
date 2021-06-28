@@ -1,5 +1,5 @@
 <div><img align="left" width="600" height="200" src="https://github.com/jayasitumorang/jayasitumorang/blob/main/jayasitumorang.jpg"></div>
-<br>
+
 ### Hi there 👋
 - 🔭 I’m currently working as a mobile developer 
 - 👯 I’m looking to collaborate on start-up 
@@ -7,7 +7,6 @@
 - 📫 How to reach me: contact my ig : @jaya_situmorang
 - ⚡ Fun fact: cant sleep when my work not done yet.
 
-<br>
 ### MY GITHUB STATS 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jayasitumorang&count_private=true&theme=tokyonight&showicons=true)]()
 <br>
