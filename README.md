@@ -1,4 +1,4 @@
-<div><img align="left" width="600" height="200" src="https://github.com/jayasitumorang/jayasitumorang/blob/main/jayasitumorang.jpg"></div>
+<img align="left" width="600" height="200" src="https://github.com/jayasitumorang/jayasitumorang/blob/main/jayasitumorang.jpg">
 
 ### Hi there 👋
 - 🔭 I’m currently working as a mobile developer 
