@@ -1,8 +1,10 @@
+### Hi there 👋
+
 <p align="left">
   <img width="600" height="200" src="https://github.com/jayasitumorang/jayasitumorang/blob/main/jayasitumorang.jpg">
 </p>
 
-### Hi there 👋
+
 - 🔭 I’m currently working as a mobile developer 
 - 👯 I’m looking to collaborate on start-up 
 - 💬 Ask me about what you want to know about me
