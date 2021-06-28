@@ -1,4 +1,4 @@
-![alt text](https://github.com/jayasitumorang/jayasitumorang/blob/main/Untitled-2.jpg?raw=true)
+![alt text](https://github.com/jayasitumorang/jayasitumorang/blob/main/jayasitumorang.jpg?raw=true)
 ### Hi there 👋
 
 - 🔭 I’m currently working as a mobile developer 
