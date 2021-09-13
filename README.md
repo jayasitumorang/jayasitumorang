@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on start-up 
 - 💬 Ask me about what you want to know about me
 - 📫 How to reach me: contact my ig : @jaya_situmorang
-- ⚡ Fun fact: cant sleep when my work not done yet.
+- ⚡ Fun fact: cant sleep when my work not done yet..
 
 
 ### MY GITHUB STATS 
