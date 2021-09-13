@@ -13,7 +13,7 @@
 
 
 ### MY GITHUB STATS 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jayasitumorang&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jayasitumoran&count_private=true&theme=tokyonight&showicons=true)]()
 <br>
 ### MY LANGUAGE STATS 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayasitumorang&hide=javascript,css,scss,html&theme=tokyonight)
